@@ -72,9 +72,9 @@ const DOWNLOAD_CATEGORIES: DownloadCategory[] = [
     ),
     files: [
       {
-        name: "Bureau Veritas Certificate 2023 (AU005622-1)",
-        href: "/brochures/pfp-bv-certificate-2023.pdf",
-        size: "0.2 MB",
+        name: "ISO 9001:2015 Certificate – Bureau Veritas 2026 (AU007245-1)",
+        href: "/brochures/pfp-bv-iso9001-certificate-2026.pdf",
+        size: "0.1 MB",
       },
     ],
   },
